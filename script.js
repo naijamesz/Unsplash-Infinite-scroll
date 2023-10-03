@@ -10,13 +10,13 @@ let photosArray = []
 // let count = 5
 // let initialCount = 5
 // const apiKey = 'dbCfl2m615rLsxaiRx3G-KpOWq5-5FoERa_5AwZYPsE'
-// const apiKey = '61YWiHXjTkGyznIhzpP56ODiwgvDTCjHr_FYqszG-24'
+const apiKey = '61YWiHXjTkGyznIhzpP56ODiwgvDTCjHr_FYqszG-24'
 // let apiUrl = `https://api.unsplash.com/photos/random
 // /?client_id=${apiKey}&count=${count}`
 let isInitialLoad = true // NEW LINE ****
 // Unsplash API
 let initialCount = 5
-const apiKey = 'jFgS8tteGD425f4oZfygQVaVnD6gt6GucN2yyz3xFek'
+// const apiKey = 'jFgS8tteGD425f4oZfygQVaVnD6gt6GucN2yyz3xFek'
 let apiUrl = `https://api.unsplash.com/photos/random?client_id=${apiKey}&count=${initialCount}`
 
 // Add NEW Block****
